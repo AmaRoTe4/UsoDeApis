@@ -1,0 +1,97 @@
+{
+  "id": 177409040,
+  "name": {
+    "es": "Termo de acero de 1.5L sin marca"
+  },
+  "description": {
+    "es": ""
+  },
+  "handle": {
+    "es": "termo-de-acero-de-1-5l-sin-marca"
+  },
+  "attributes": [],
+  "published": true,
+  "free_shipping": false,
+  "requires_shipping": true,
+  "canonical_url": "https://sdnsoftware.mitiendanube.com/productos/termo-de-acero-de-1-5l-sin-marca/",
+  "video_url": null,
+  "seo_title": {
+    "es": ""
+  },
+  "seo_description": {
+    "es": ""
+  },
+  "brand": null,
+  "created_at": "2023-07-25T15:19:56+0000",
+  "updated_at": "2023-07-25T15:21:11+0000",
+  "variants": [
+    {
+      "id": 681062220,
+      "image_id": null,
+      "product_id": 177409040,
+      "position": 1,
+      "price": "1500.00",
+      "compare_at_price": "1500.00",
+      "promotional_price": null,
+      "stock_management": false,
+      "stock": null,
+      "weight": "0.000",
+      "width": "0.00",
+      "height": "0.00",
+      "depth": "0.00",
+      "sku": "19899551984",
+      "values": [],
+      "barcode": "1234567891234",
+      "mpn": null,
+      "age_group": "adult",
+      "gender": "unisex",
+      "created_at": "2023-07-25T15:19:56+0000",
+      "updated_at": "2023-07-25T15:20:32+0000",
+      "inventory_levels": [
+        {
+          "id": 277131909,
+          "variant_id": 681062220,
+          "location_id": "01H66S0ZYC33Y0507K6R0FV8CT",
+          "stock": null
+        }
+      ]
+    }
+  ],
+  "tags": "",
+  "images": [
+    {
+      "id": 508036818,
+      "product_id": 177409040,
+      "src": "https://d2r9epyceweg5n.cloudfront.net/stores/003/493/766/products/termo1-f62b752abc765afaee16902984723570-1024-1024.jpg",
+      "position": 1,
+      "alt": [],
+      "created_at": "2023-07-25T15:21:05+0000",
+      "updated_at": "2023-07-25T15:21:19+0000"
+    }
+  ],
+  "categories": [
+    {
+      "id": 19920558,
+      "name": {
+        "es": "Termos"
+      },
+      "description": {
+        "es": ""
+      },
+      "handle": {
+        "es": "termos"
+      },
+      "parent": null,
+      "subcategories": [],
+      "seo_title": {
+        "es": ""
+      },
+      "seo_description": {
+        "es": ""
+      },
+      "google_shopping_category": "",
+      "created_at": "2023-07-25T15:19:38+0000",
+      "updated_at": "2023-07-25T15:19:38+0000"
+    }
+  ]
+}

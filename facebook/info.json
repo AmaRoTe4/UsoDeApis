@@ -1,0 +1,16 @@
+{
+  "retailer_id": "151515",
+  "title": "TITLE",
+  "name": "NAME",
+  "availability": "in stock",
+  "condition": "new",
+  "price": 90,
+  "currency": "ARS",
+  "link": "",
+  "brand": "SDN Software",
+  "image_url": "https://www.shutterstock.com/image-vector/drop-water-icon-editable-vector-260nw-1316707097.jpg",
+  "url": "https://www.shutterstock.com/image-vector/drop-water-icon-editable-vector-260nw-1316707097.jpg",
+  "category": "Electrónica",
+  "product_type": "Electrodomésticos",
+  "description": "Este es un nuevo producto increíble."
+}
