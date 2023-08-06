@@ -1,12 +1,6 @@
-user_id: 3627199
-store_id: 3493766
-
 client_id =El App ID de tu aplicación
 client_secret = El client_secret de tu aplicación
 code = El código que trae la URL a la que vas a ser redireccionado luego de instalar la aplicación en tu Tienda de prueba
-
-App ID: 7788
-Client secret: ff31d53824505cedd55b8bb95b69f5d4a5768d7867a65110
 
 prueba productos:
 

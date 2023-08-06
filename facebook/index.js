@@ -1,11 +1,6 @@
 import FB from "fb"; // or,
 //import { FACEBOOK, FacebookApiException } from "fb";
 
-const PRODUCT_CATALOG_ID = 801494884793734;
-const PRODUCT_FEED_ID = 665970672115523;
-const ACCESS_TOKEN =
-  "EAANjiJGTo30BOy2f0WBz59mU55qNgkCQwh5bgTWXcB0ZCagUx2AcEgC7zoJF6OVryRKRm5v3LiEOBdFEQpZBpaC6zrsbYI4A4vtd2BvQbUI8xTWxPW09crbn2ZCR47brm1OtguLc3QZAQZCc8RTdSTQj9ZCL3ObZAk0ZACsM2H98iRdN3SNFEZB0yttDzCML6a6MSdvli9di5nrBKyDPhZA3W0kJzFola8PH6zOekajWi46zGSsQdJJKAZD";
-
 const pruebaPOST = () => {
   try {
     FB.setAccessToken(ACCESS_TOKEN);

@@ -1,6 +1,4 @@
-const id_store = "3493766";
-const apiUrl = `https://api.tiendanube.com/v1/${id_store}/products`;
-const apiKey = "9eb5777d8e936c9b1341e07d40f576cc58a53e9c";
+const apiUrl = `https://api.tiendanube.com/v1/${STORE_ID}/products`;
 
 const productData = [
   {
@@ -54,7 +52,7 @@ const productData = [
 const getAll = async () => {
   await fetch(apiUrl, {
     headers: {
-      Authentication: `bearer ${apiKey}`,
+      Authentication: `bearer ${API_KEY}`,
       "Content-Type": "application/json",
       "User-Agent":
         "Usando La API (sincronizacion.de.datos.del.norte@gmail.com)",
@@ -69,7 +67,7 @@ const Create = async (producto) => {
   await fetch(apiUrl, {
     method: "POST",
     headers: {
-      Authentication: `bearer ${apiKey}`,
+      Authentication: `bearer ${API_KEY}`,
       "Content-Type": "application/json",
       "User-Agent":
         "Usando La API (sincronizacion.de.datos.del.norte@gmail.com)",
@@ -87,4 +85,4 @@ const CretaeMany = async (productos) => {
 
 //Create();
 //getAll();
-CretaeMany(productData);
+//CretaeMany(productData);
