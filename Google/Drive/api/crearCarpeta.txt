@@ -1,0 +1,8 @@
+curl -X POST \
+  -H "Authorization: Bearer YOUR_ACCESS_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "NOMBRE_DE_LA_CARPETA",
+    "mimeType": "application/vnd.google-apps.folder"
+  }' \
+  "https://www.googleapis.com/drive/v3/files"
