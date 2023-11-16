@@ -3,7 +3,7 @@ const qrcode = require("qrcode-terminal");
 const { Client, LegacySessionAuth } = require("whatsapp-web.js");
 
 // Path where the session data will be stored
-const SESSION_FILE_PATH = "./session.json";
+const SESSION_FILE_PATH = "./sessions/index.json";
 
 // Load the session data if it has been previously saved
 let sessionData;
