@@ -1,0 +1,1 @@
+./tools/keygen.sh /C=AR/O=Speranza18/CN=speranza18/serialNumber=CUIT 24456570387

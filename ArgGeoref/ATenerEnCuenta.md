@@ -1,0 +1,1 @@
+1-Cuando las peticiones crecen estas por defecto tiene un numero minimo de respuesta por ende para hacer las peticiones mas espeficas vamos a tener que usar una doble peticion, ya que vamos a tener que poner un maximo al final

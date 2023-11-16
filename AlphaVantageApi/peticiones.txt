@@ -1,0 +1,13 @@
+https://www.alphavantage.co/query?
+
+{
+	function=TIME_SERIES_INTRADAY,
+	symbol=IBM,
+	interval=1min,
+	?adjusted=true,
+	datatype=json,
+	apikey=JAKQ7HUQPL6OIE5F.
+}
+
+
+https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=1min&datatype=json&apikey=JAKQ7HUQPL6OIE5F
